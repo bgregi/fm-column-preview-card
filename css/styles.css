@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Lexend Deca";
+    src: url(../fonts/LexendDeca-Regular.ttf);
+}
+@font-face {
+    font-family: "Big Shoulders Display";
+    src: url(../fonts/BigShouldersDisplay-Regular.ttf);
+}
+
+body {
+    font-family: Lexend Deca, sans-serif;
+    font-weight: 400;
+    margin: 20px;
+}
+
+h1 {
+    font-family: Big Shoulders Display, sans-serif;
+    font-weight: 700;
+}
+
+.box {
+    box-sizing: border-box;
+    border: solid blue 1px;
+    padding: 20px;
+}
