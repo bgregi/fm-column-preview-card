@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/bgregi/frontend-mentor-3-column-preview-card](https://github.com/bgregi/frontend-mentor-3-column-preview-card)
-- Live Site URL: [https://bgregi.github.io/frontend-mentor-3-column-preview-card/](https://bgregi.github.io/frontend-mentor-3-column-preview-card/)
+- Solution URL: [https://github.com/bgregi/fm-column-preview-card](https://github.com/bgregi/fm-column-preview-card)
+- Live Site URL: [https://bgregi.github.io/fm-column-preview-card/](https://bgregi.github.io/fm-column-preview-card/)
 
 ## My process
 
